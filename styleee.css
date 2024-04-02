@@ -1,0 +1,50 @@
+h1{
+    margin-left: 15%;
+}
+.bg{
+    background-color: paleturquoise;
+  height: 800px;
+}
+.m{
+    margin-left: 40%;
+}
+
+.n{
+    margin-left: 10%;
+    }
+
+.a{
+    float: left;
+    margin-top: 5%;
+    width: 200px;
+    height: 50px;
+    margin-left: 10%;
+}
+
+.b{
+    float: right;
+    margin-top: 5%;
+    width: 800px;
+    margin-right: 2%;
+
+}
+.c{
+    float: left;
+    margin-top: 5%;
+    width: 200px;
+    height: 50px;
+    margin-left: 10%;
+}
+
+#a{
+    display: none;
+}
+
+#b{
+    display: none;
+}
+
+#c{
+    display: none;
+}
+
